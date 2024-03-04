@@ -1,0 +1,125 @@
+body {
+    background-color: rgba(30,6,94,255);
+    background-image: url(Temp.jpeg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin-top: 240px;
+    padding: 0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.convert-btn {
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#temperature::placeholder {
+    color: white;
+}
+
+.celsius-btn {
+    padding: 8px 15px;
+    background-color: #28a745; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.fahrenheit-btn {
+    padding: 8px 15px;
+    background-color: #1ecdd9; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.kelvin-btn {
+    padding: 8px 15px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+h1 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.input-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+input[type="number"] {
+    background-color: #9a5fe2;
+    color: #1fddff;
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.unit-options {
+    display: flex;
+}
+
+.unit-options input[type="radio"] {
+    margin-right: 10px;
+}
+
+
+
+.convert-btn:hover {
+    background-color: #0056b3;
+}
+
+.target-unit-section {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.target-unit-btn {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.target-unit-btn:hover {
+    background-color: #0056b3;
+}
+
+.result {
+    color: #1fddff;
+    font-size: 18px;
+    padding: 10px;
+    background-color: #7300ff;
+    border-radius: 5px;
+}
