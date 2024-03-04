@@ -8,7 +8,8 @@ Welcome to the OIBSIP (Online Internship Projects) repository! This repository c
 
 Level 1 consists of three projects that helped me gain a foundational understanding of web development. These projects focused on front-end development, HTML, CSS, and JavaScript.
 <br>
-Task 1 - Netflix Landing Page
+
+### Task 1 - Netflix Landing Page
 <hr>
 
 Description: A landing page for Netflix.
@@ -20,7 +21,7 @@ Screenshot:
 <img width="1440" alt="image" src="https://github.com/Raghav-26491/OIBSIP/assets/145380406/78f14545-e72b-4f4f-a206-99710fc22da7">
 
 
-Task 2 - Portfolio
+### Task 2 - Portfolio
 <hr>
 
 Decription: My Portfolio Website.
@@ -34,7 +35,7 @@ Screenshot:
 
 
 
-Task 3 - Temperature Convertor Website
+### Task 3 - Temperature Convertor Website
 <hr>
 
 Decription: The website allows users to give input in Celsius, Fahrenheit, Kelvin and convert it into each other.
