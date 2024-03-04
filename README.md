@@ -1,9 +1,10 @@
 # OASIS INFOBYTE - Web Development and Designing
+<hr>
 
 Welcome to the OIBSIP (Online Internship Projects) repository! This repository contains the projects completed during my web developer internship at Oasis Info Byte. The projects were assigned in three levels, each with its own set of projects to complete.
 
 ## Level 1 Projects
-
+<hr>
 Level 1 consists of three projects that helped me gain a foundational understanding of web development. These projects focused on front-end development, HTML, CSS, and JavaScript.
 
 Task 1 - Netflix Landing Page
@@ -18,7 +19,7 @@ Screenshot:
 
 Task 2 - Portfolio
 
-Decription: React Portfolio Website.
+Decription: My Portfolio Website.
 
 Technologies Used: HTML, CSS
 
@@ -30,7 +31,7 @@ Screenshot:
 
 Task 3 - Temperature Convertor Website
 
-Decription: The website allows user to give input(Fahrenheit, Kelvin) and convert's it into Celsius.
+Decription: The website allows users to give input in Celsius, Fahrenheit, Kelvin and convert it into each other.
 
 Technologies Used: HTML, CSS, JavaScript
 
