@@ -1,5 +1,3 @@
-# PRODIGY_WD_02
-
 # Stopwatch Web Application
 
 This is a simple web application that provides a stopwatch functionality with start, stop, reset, and lap buttons.
