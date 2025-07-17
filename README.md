@@ -51,7 +51,3 @@ This is a simple web application that provides a stopwatch functionality with st
 - HTML
 - CSS
 - JavaScript
-
-Stopwatch Task Photo
-
-<img width="1438" alt="Stopwatch copy" src="https://github.com/Raghav-26491/PRODIGY_WD_02/assets/145380406/de959dbf-7a4f-4ab0-8bb9-809f8dda80bb">
