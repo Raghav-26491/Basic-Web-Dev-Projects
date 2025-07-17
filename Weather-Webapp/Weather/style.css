@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('/Personal/Images/Weather.jpeg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #0978c7;
+}
+
+.container {
+    width: 600px;
+    margin: 100px auto 0 auto;
+    padding: 40px;
+}
+
+.inputs {
+    padding: 2rem 0 2rem 0;
+    text-align: center;
+    justify-content: center;
+    height: 150px;
+}
+
+.inputs input[type="text"] {
+    height: 4rem;
+    width: 26rem;
+    background: #cde3f6; 
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 10px;
+    border: none;
+    border: 2px solid #048dfd; 
+    border-radius: 5px;
+    margin-right: 4px;
+}
+
+.inputs input[type="submit"] {
+    height: 4rem;
+    width: 6rem;
+    background-color: #cde3f6;; 
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 1rem;
+    margin-top: 20px;
+    border: none;
+    border: 1px solid #048dfd;
+    border-radius: 4px;
+}
+
+.display {
+    text-align: center;
+    width: 520px;
+    color: #16a864;
+}
+
+.wrapper {
+    margin: 0 auto;
+    background-color: rgba(191, 201, 218, 0.7); 
+    height: 280px;
+    margin: 50px auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.wrapper h2 {
+    padding: 5px 0;
+    text-align: center;
+    background: #f9f9f9;
+    color: rgb(202, 170, 253);
+    border-radius: 6px;
+}
+
+.wrapper p {
+    margin: 20px;
+    height: 30px;
+    margin-right: 20px;
+    text-align: left;
+    color: #04214c;
+    font-size: 23px;
+}
+
+.wrapper h2 span {
+    font-size: 26px;
+    color: #9f69fc;
+}
+
+.wrapper p span {
+    color: #5e0df4;
+    font-size: 25px;
+}
