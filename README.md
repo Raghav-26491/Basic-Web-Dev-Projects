@@ -1,14 +1,3 @@
-# OASIS INFOBYTE - Web Development and Designing
-<hr>
-
-Welcome to the OIBSIP (Online Internship Projects) repository! This repository contains the projects completed during my web developer internship at Oasis Info Byte. The projects were assigned in three levels, each with its own set of projects to complete.
-
-## Level 1 Projects
-<hr>
-
-Level 1 consists of three projects that helped me gain a foundational understanding of web development. These projects focused on front-end development, HTML, CSS, and JavaScript.
-<br>
-
 ### Task 1 - Netflix Landing Page
 <hr>
 
