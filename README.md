@@ -34,4 +34,3 @@ Technologies Used: HTML, CSS, JavaScript
 Screenshot:
 
 ![image](https://github.com/Raghav-26491/OIBSIP/assets/145380406/9f1d7fb3-fd76-4599-b6d0-5a4645f33702)
-
