@@ -6,4 +6,4 @@ To start playing Tic Tac Toe, players take turns placing their symbols (X or O) 
 
 Tic Tac Toe Game Webpage Photo
 
-![image](https://github.com/Raghav-26491/PRODIGY_WD_03/assets/145380406/364e01a8-cde4-4dcd-ad20-1ddbe932e52f)
+<img width="2880" height="1800" alt="TicTacToe" src="https://github.com/user-attachments/assets/17b6ff2e-dfe4-46d3-8e97-49762f7fcb53" />
