@@ -29,6 +29,12 @@ Screenshot:
 
 Description: The website allows users to give input in Celsius, Fahrenheit and Kelvin, and convert it into the other.
 
+Technologies Used: HTML, CSS, JavaScript
+
+Screenshot:
+
+![image](https://github.com/Raghav-26491/OIBSIP/assets/145380406/9f1d7fb3-fd76-4599-b6d0-5a4645f33702)
+
 ### Task 4 - Stopwatch Web Application
 
 This is a simple web application that provides a stopwatch functionality with start, stop, reset, and lap buttons.
@@ -49,10 +55,3 @@ This is a simple web application that provides a stopwatch functionality with st
 Stopwatch Task Photo
 
 <img width="1438" alt="Stopwatch copy" src="https://github.com/Raghav-26491/PRODIGY_WD_02/assets/145380406/de959dbf-7a4f-4ab0-8bb9-809f8dda80bb">
-
-
-Technologies Used: HTML, CSS, JavaScript
-
-Screenshot:
-
-![image](https://github.com/Raghav-26491/OIBSIP/assets/145380406/9f1d7fb3-fd76-4599-b6d0-5a4645f33702)
