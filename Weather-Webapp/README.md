@@ -1,3 +1,6 @@
+
+<img width="1438" height="813" alt="Weather" src="https://github.com/user-attachments/assets/aa7d5afd-62ca-418a-af72-06c970b387ea" />
+
 # Weather Web App
 
 - This is a simple weather web application that provides information about the current weather conditions. It displays the following details:
@@ -31,6 +34,6 @@ Note
 - Ensure that you enter the correct city name to fetch accurate weather data.
 - The displayed temperature is in Celsius.
 
-<img width="1438" height="813" alt="Weather" src="https://github.com/user-attachments/assets/aa7d5afd-62ca-418a-af72-06c970b387ea" />
+
 
 
