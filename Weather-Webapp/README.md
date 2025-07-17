@@ -1,7 +1,3 @@
-<img width="1438" alt="Weather App" src="https://github.com/Raghav-26491/PRODIGY_WD_05/assets/145380406/6fae5772-dbb5-4a0c-b72e-33941aa2b119">
-
-# PRDIGY_WD_05
-
 # Weather Web App
 
 - This is a simple weather web application that provides information about the current weather conditions. It displays the following details:
@@ -25,6 +21,7 @@ Moisture Content
 Technologies Used
 
 - HTML
+
 - CSS
 - JavaScript
 
@@ -33,5 +30,7 @@ Note
 - The weather information is fetched from the OpenWeatherMap API, so an internet connection is required to use this application.
 - Ensure that you enter the correct city name to fetch accurate weather data.
 - The displayed temperature is in Celsius.
+
+<img width="1438" height="813" alt="Weather" src="https://github.com/user-attachments/assets/aa7d5afd-62ca-418a-af72-06c970b387ea" />
 
 
